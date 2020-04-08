@@ -4,5 +4,5 @@ This is a very simple project that is an example of how to run C++ code on a dev
 Test 1 - Bulldozer Production
 Test 2 - Bulldozer Production
 
-Test 3 - Bulldozer Production - draft pr label
+Test 3 - Bulldozer Production - pr draft label
 
